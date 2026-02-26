@@ -1,0 +1,2 @@
+P001|Ahmed Ali|35|Male|Diabetes
+231000567|Basel Saber|21|Male|Flu
